@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://andrearabome.netlify.app/](https://andrearabome.netlify.app/)
 
-- 📝 My personal website [doonottevenn.com](doonottevenn.com)
+- 📝 My personal website [doonottevenn.com](https://doonottevenn.com)
 
 - 📫 How to reach me **andrearabome@gmail.com**
 
