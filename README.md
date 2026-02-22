@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andre Arabome</h1>
-<h3 align="center">A passionate web/software developer from Canada</h3>
+<h3 align="center">A passionate web/software developer making something everyday</h3>
 
 - 🔭 I’m currently working on **Creating projects in different languages to broaden my development knowledge**
 
