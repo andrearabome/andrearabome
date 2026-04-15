@@ -1,4 +1,4 @@
-<h1 align="center">🐺🇳🇬Hi, I'm Andre!🇨🇦🐺</h1>
+<h1 align="center">🐺Hi, I'm Andre!🐺</h1>
 <h3 align="center">𝘺𝘰𝘶 𝘳𝘦𝘢𝘭𝘭𝘺 𝘥𝘰 𝘭𝘦𝘢𝘳𝘯 𝘴𝘰𝘮𝘦𝘵𝘩𝘪𝘯𝘨 𝘯𝘦𝘸 𝘦𝘷𝘦𝘳𝘺𝘥𝘢𝘺...
 </h3>
 
